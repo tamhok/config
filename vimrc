@@ -28,4 +28,4 @@ Plugin 'klen/python-mode'
 " Now we can turn our filetype functionality back on
 filetype plugin indent on
 
-let mapleader=" "
+let mapleader=";"
